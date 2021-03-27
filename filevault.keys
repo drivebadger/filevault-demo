@@ -1,0 +1,11 @@
+# This file contains Apple FileVault encryption keys, one per line.
+# Empty lines, and comments beginning from # are allowed in this file.
+#
+# Multiple filevault.keys files are allowed - each in separate repository.
+# When multiple such files are detected, all keys are tested against all possible FileVault filesystems.
+
+# macbook pro, recovery key
+ABCD-1234-5678-90AB-CDEF-1234
+
+# mac mini, user password
+MyFancyPassword
