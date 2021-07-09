@@ -8,7 +8,7 @@ It doesn't support recovery via iCloud, or HFS+ encryption.
 Do NOT clone this repository directly. Instead, **fork it** (possibly multiple times), or create similar repositories from stratch
 (empty repository with just `filevault.keys` file is enough).
 
-Next, clone each of them as `/opt/drivebadger/config/filevault-yourchosenname` local directory on your Drive Badger persistent partition.
+Next, clone each of them as `/opt/drivebadger/config/keys-filevault-yourchosenname` local directory on your Drive Badger persistent partition.
 
 This way, you are able to update all cloned repositories in the future by a single command `/opt/drivebadger/update.sh`.
 
